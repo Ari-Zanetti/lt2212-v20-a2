@@ -17,7 +17,10 @@ Part 3 - classify and evaluate
 
 Part 4 - try and discuss
 
-1.  SVC:
+1.  
+Results:
+
+    SVC:
 
 	Accuracy: 0.6153846153846154
 	
@@ -39,7 +42,10 @@ Part 4 - try and discuss
 	F-measure: 0.630396825430384
 	
 	
-2.  50% (3000 features)
+2.  
+Results:
+    
+    50% (3000 features)
 
     SVC:
 
